@@ -11,7 +11,7 @@ public: true
 urlname: notion-notice
 title: Notion 写作注意事项
 date: '2026-04-13 00:07:00'
-updated: '2026-04-13 00:07:00'
+updated: '2026-04-13 01:32:00'
 ---
 
 # 前言

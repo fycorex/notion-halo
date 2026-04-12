@@ -11,7 +11,7 @@ public: true
 urlname: notion-halo-config
 title: Notion-Halo 配置详解
 date: '2026-04-13 00:07:00'
-updated: '2026-04-13 00:07:00'
+updated: '2026-04-13 01:32:00'
 ---
 
 # 前言
