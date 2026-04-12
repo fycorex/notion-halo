@@ -12,7 +12,7 @@ public: true
 urlname: decoder-transformer
 title: Decoder Only Transformer
 date: '2026-04-13 01:00:00'
-updated: '2026-04-13 01:19:00'
+updated: '2026-04-13 01:29:00'
 ---
 
 ## Decoder-Only Transformers: The Workhorse of Generative LLMs
