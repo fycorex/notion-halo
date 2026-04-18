@@ -13,7 +13,7 @@ public: true
 urlname: lrm-vllm-attack
 title: 论文复现1：LRM and VLLM attack
 date: '2026-04-16 19:24:00'
-updated: '2026-04-17 00:04:00'
+updated: '2026-04-17 00:06:00'
 ---
 
 ## 论文复现1：LRM and VLLM attack
